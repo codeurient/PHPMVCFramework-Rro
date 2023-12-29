@@ -1,0 +1,15 @@
+{
+    "name": "codeurient/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Davud Mehidyev",
+            "email": "codeurient@gmail.com"
+        }
+    ],
+    "require": {}
+}
